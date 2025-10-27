@@ -5,6 +5,7 @@ public class Myrepo {
 		
 		//changes made
 		int x = 0;
+		int x = 7;
 		// TODO Auto-generated method stub
 
 	}
